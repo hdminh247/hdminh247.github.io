@@ -5,11 +5,11 @@
 
 - Click Configure System and scroll down to Theme
 
-- Specify the URL for https://tobix.github.io/jenkins-neo2-theme/dist/neo-light.css.
+- Specify the URL for https://hdminh247.github.io/jenkins-material-theme.css.
 
 - Click Save
 
 ####Using your Jenkins Hosting
-- Copy the file https://tobix.github.io/jenkins-neo2-theme/dist/neo-light.css to the directory userContent in your JENKINS_HOME
+- Copy the file https://hdminh247.github.io/jenkins-material-theme.css to the directory userContent in your JENKINS_HOME
 
 - Follow the steps of the previous method and use /userContent/neo-light.css as the URL.
