@@ -2780,7 +2780,8 @@ th.pane {
 }
 
 #side-panel .task-link {
-    color: #444
+    color: #444;
+    font-weight: 400 !important;
 }
 
 .bottom-sticker-edge {
